@@ -209,7 +209,7 @@
     content: "";
     position: absolute;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 3px;
     z-index: 1;
     grid-template-columns: 1fr 1fr 1fr;
     width: 150px;
