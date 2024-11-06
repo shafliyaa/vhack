@@ -205,6 +205,21 @@
     margin-left: 110px;
 
 }
+.container::before{
+    content: "";
+    position: absolute;
+    background-color: white;
+    border-radius: 5px;
+    z-index: 1;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 150px;
+    height: 100px;
+    
+    display: block;
+    margin-top: 100px;
+    
+    object-fit: cover;
+}
 .img{
     width: 150px;
     height: 200px;
@@ -216,7 +231,7 @@
     
     
     position: relative;
-    
+    z-index: 4;
     transition-duration: 0.15s;
     line-height: 24px;
 
