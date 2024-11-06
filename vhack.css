@@ -220,6 +220,7 @@
     object-fit: cover;
     position: relative;
     z-index: 2;
+    bottom: -48px;
     transition: transform 0.15s ease-in-out;
 
 
