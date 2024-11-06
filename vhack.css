@@ -188,7 +188,7 @@
     content: "";
     position: absolute;
     background-color: white;
-    border-radius: 5px;
+    border-radius: 3px;
     z-index: 1;
     grid-template-columns: 1fr 1fr 1fr;
     width: 150px;
@@ -220,7 +220,7 @@
     object-fit: cover;
     position: relative;
     z-index: 2;
-    bottom: -48px;
+    bottom:-48px;
     transition: transform 0.15s ease-in-out;
 
 
