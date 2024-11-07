@@ -14,7 +14,7 @@ html, body {
       height: 70px;
       display: flex;
       flex-direction: row;
-      justify-content: space-between;
+     
       position: fixed;
       top: 0;
       left: 0;
