@@ -73,7 +73,7 @@ html, body {
     border: none;
     width: 300px;
 
-    white-space: nowrap;
+    text-wrap: nowrap;
     gap:0;
     
   }
